@@ -15,6 +15,7 @@ function App() {
 
         <WeekTable />
       </div>
+      This practice template was coded by Nike, <a href="https://github.com/niketamm/reacttesting">Github for more</a>
     </div>
   );
 }
