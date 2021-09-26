@@ -1,0 +1,29 @@
+td {
+  border-radius: 5px;
+}
+
+table {
+  width: 100%;
+  text-align: center;
+  margin: 0px;
+}
+
+.weather-table {
+  background-color: #c3d4db;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.weatherLower {
+  font-size: 15px;
+  background-color: rgb(250, 250, 250, 0.3);
+  border: none;
+  background-color: none;
+  padding: 2px;
+}
+.weatherLowerText {
+  background-color: rgb(250, 250, 250, 0.3);
+  font-size: 13px;
+  padding: 2px;
+}

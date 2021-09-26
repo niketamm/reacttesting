@@ -1,0 +1,20 @@
+form {
+  display: inline;
+  font-size: 13px;
+  margin: 0px;
+}
+
+.search {
+  width: 270px;
+  padding: 10px;
+  border-radius: 8px;
+  border: solid 1px;
+}
+
+.searchTwo {
+  width: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px;
+  background-color: #fbf3e6;
+}
