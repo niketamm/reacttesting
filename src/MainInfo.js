@@ -1,4 +1,5 @@
 import React from "react";
+import "./MainInfo.css";
 
 export default function MainInfo(prop) {
   return (
